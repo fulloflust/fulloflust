@@ -18,9 +18,9 @@ im 18 and a cs student i love building stuff learning new things and helping peo
 
 ## languages i know
 
-<img src="assets/strong-skills.gif" alt="Animated language sliders for Java C C++ Rust Go TypeScript JavaScript and Python" width="100%" />
+<img src="assets/strong-skills.gif?v=2" alt="Animated language sliders for Java C C++ Rust Go TypeScript JavaScript and Python" width="100%" />
 
-<img src="assets/learning-skills.gif" alt="Animated language sliders for Lua SQL PHP Bash shell Kotlin Swift C sharp and Ruby" width="100%" />
+<img src="assets/learning-skills.gif?v=2" alt="Animated language sliders for Lua SQL PHP Bash shell Kotlin Swift C sharp and Ruby" width="100%" />
 
 ## github stats
 
