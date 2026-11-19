@@ -6,15 +6,15 @@ im 18 and a cs student i love building stuff learning new things and helping peo
 
 **im always open to help so hit me up if you need a hand**
 
-[my github](https://github.com/fulloflust) { [my projects](https://github.com/fulloflust?tab=repositories) }
+{ [my github](https://github.com/fulloflust) [my projects](https://github.com/fulloflust?tab=repositories) }
 
 </div>
 
 ## what im up to
 
 - ex owner of **Catalyst** it got discontinued
-- working with **Light Client**
-- helping with **LARP Client**
+- working with **Light Client** made by Suffixs
+- helping with **Larp Client** made by Tobias
 
 ## languages i know
 
